@@ -1,0 +1,89 @@
+{
+  "code": "YUHAN",
+  "title": "SMASH YUHAN",
+  "school": "유한대",
+  "fullName": "유한대학교",
+  "campusName": "유한대학교",
+  "tagline": "유한대를 부셔 (시험기간 스트레스 해소)",
+  "description": "유한대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 유한대학교 3D 화면과 SMASH YUHAN 제목",
+  "url": "https://hong-iron.github.io/SMASH-YUHAN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 252990477
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.4882519,
+        126.8225205
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 옆 유한공업고등학교 유일한관(J동)에 붙은 작은 부분으로, 사용승인일(2000-11-28)이 같고 대학 경계 밖에 있다."
+    },
+    {
+      "at": [
+        37.4879299,
+        126.8225533
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 대학 경계 밖, 유한공업고등학교 유일한관 앞 운동장 가장자리에 있는 이름 없는 작은 시설이다."
+    },
+    {
+      "at": [
+        37.4879865,
+        126.8227026
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 대학 경계 밖, 유한공업고등학교 운동장 가장자리에 있는 이름 없는 작은 시설로 대학 건물이 아니다."
+    },
+    {
+      "at": [
+        37.4864665,
+        126.8207455
+      ],
+      "n": "25동",
+      "why": "학교 건물 아님 — 옆 복지시설 새소망의집의 25동(노유자시설, 4층)으로, 학교 땅이 아닌 새소망의집 땅(괴안동 185-35대)에 있다."
+    },
+    {
+      "at": [
+        37.4861321,
+        126.8208767
+      ],
+      "n": "24동",
+      "why": "학교 건물 아님 — 옆 복지시설 새소망의집 24동(노유자시설, 2층)으로, 학교 땅이 아닌 괴안동 185-35대에 있다."
+    },
+    {
+      "at": [
+        37.4881343,
+        126.8223857
+      ],
+      "n": "J동",
+      "why": "학교 건물 아님 — 옆 유한공업고등학교가 쓰는 유일한관으로, 연면적(약 9,800㎡)과 2000년 준공 시기가 그 고교의 유일한관 기록과 같고 대학 경계 밖에 있다."
+    }
+  ],
+  "look": {
+    "B동": {
+      "style": "stone",
+      "wall": "#c9c5bc",
+      "glass": "#4f687b",
+      "frame": "#e6e3dc"
+    },
+    "K동": {
+      "style": "concrete",
+      "wall": "#95918e",
+      "glass": "#4f687b",
+      "frame": "#a3a09a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
